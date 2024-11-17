@@ -1,0 +1,70 @@
+
+[image]  loaded 'data/classdata/diff/001.jpg'  (320x479, 3 channels)
+)lass 0001 - 0.015762  (dog
+)lass 0002 - 0.384033  (fish
+)lass 0003 - 0.597168  (house
+)magenet:  59.71680% class #3 (house
+[OpenGL] glDisplay -- set the window size to 320x479
+[OpenGL] creating 320x479 texture (GL_RGB8 format, 459840 bytes)
+[cuda]   registered openGL texture for interop access (320x479, GL_RGB8, 459840 bytes)
+[image]  saved 'test1.jpg'  (320x479, 3 channels)
+
+
+
+
+
+[image]  loaded 'data/classdata/diff/002.jpg'  (426x320, 3 channels)
+)lass 0000 - 0.219360  (cat
+)lass 0001 - 0.247070  (dog
+)lass 0002 - 0.439697  (fish
+)lass 0003 - 0.093750  (house
+)magenet:  43.96973% class #2 (fish
+[OpenGL] glDisplay -- set the window size to 426x320
+[OpenGL] creating 426x320 texture (GL_RGB8 format, 408960 bytes)
+[cuda]   registered openGL texture for interop access (426x320, GL_RGB8, 408960 bytes)
+[image]  saved 'test2.jpg'  (426x320, 3 channels)
+
+
+
+
+
+
+[image]  loaded 'data/classdata/diff/003.jpg'  (459x499, 3 channels)
+)lass 0000 - 0.537598  (cat
+)lass 0001 - 0.331299  (dog
+)lass 0002 - 0.055786  (fish
+)lass 0003 - 0.075317  (house
+)magenet:  53.75977% class #0 (cat
+[OpenGL] glDisplay -- set the window size to 459x499
+[OpenGL] creating 459x499 texture (GL_RGB8 format, 687123 bytes)
+[cuda]   registered openGL texture for interop access (459x499, GL_RGB8, 687123 bytes)
+[image]  saved 'test3.jpg'  (459x499, 3 channels)
+
+
+
+
+[image]  loaded 'data/classdata/diff/004.jpg'  (287x360, 3 channels)
+)lass 0000 - 0.625488  (cat
+)lass 0001 - 0.328125  (dog
+)lass 0002 - 0.034668  (fish
+)lass 0003 - 0.011719  (house
+)magenet:  62.54883% class #0 (cat
+[OpenGL] glDisplay -- set the window size to 287x360
+[OpenGL] creating 287x360 texture (GL_RGB8 format, 309960 bytes)
+[cuda]   registered openGL texture for interop access (287x360, GL_RGB8, 309960 bytes)
+[image]  saved 'test4.jpg'  (287x360, 3 channels)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
